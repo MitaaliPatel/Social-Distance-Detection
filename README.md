@@ -66,8 +66,6 @@ You will see:
 
 ## **Output Example**
 
-Place this screenshot in your repository as:
-
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4f43794a-0ec4-446a-9a9d-b2be7b7761cb" />
 
 ## **Notes**
